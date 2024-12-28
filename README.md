@@ -1,4 +1,4 @@
-#My PowerApps Portfolio
+![image](https://github.com/user-attachments/assets/0e1afba9-56aa-4c7e-b544-8f6569fa09e1)#My PowerApps Portfolio
 
 Welcome to my PowerApps portfolio! I've built several applications using Microsoft PowerApps, a powerful low-code platform that enables rapid application development. Here's a brief introduction to some of my projects:
 
@@ -10,55 +10,32 @@ MiBenefits Application is an app that features all benefits and entitlements of 
 - HR Resources
 
 ## 2. [IT Tickecting System](https://github.com/your-username/inventory-management-app)
-A comprehensive inventory management solution that helps businesses track and manage their stock levels. The app includes:
-- Real-time inventory monitoring
-- Automated reorder notifications
-- Barcode scanning integration
-- Reporting and analytics
+An IT ticketing software tool designed to help users manage and track their IT-related issues, requests, and incidents and also record internet downtimes. This app typically provides a centralized platform where users can submit tickets, report problems, or request IT support services. The App Includes
+- Real-time Dashboard monitoring
+- Ticket management system
+- Customer feedback and surveys
+- Automated outlook notifications
 
 ## 3. [IT Assets Management Portal](https://github.com/your-username/customer-service-app)
-This app provides a centralized platform for customer support, enabling agents to efficiently handle inquiries and track customer interactions. Features include:
+Our custom-built IT ticketing app serves as a centralized hub for employees to report technical issues, raise service requests, track the status of their submissions and record internet downtimes. Powered by the Microsoft Power Platform, this solution streamlines the incident management process and enhances the overall IT support experience.
 - Ticket management system
 - Knowledge base integration
 - Customer feedback and surveys
 - Reporting and analytics
 
 ## 4. [Staff Sales App](https://github.com/your-username/sales-pipeline-app)
-A sales pipeline management tool that helps sales teams visualize and manage their sales funnel. Key functionalities:
-- Customizable sales stages
-- Lead and opportunity tracking
-- Automated notifications and reminders
-- Reporting and forecasting
+Our custom-built Employee Sales App allows our team members to conveniently purchase company products directly from their mobile devices. This solution not only provides our staff with easy access to the products they need but also helps to promote brand loyalty and a sense of community within the organization.
 
 ## 5. [Stock Count App](https://github.com/your-username/event-management-app)
-This app simplifies the organization and management of events, from registration to post-event analysis. Features include:
-- Event registration and ticketing
-- Attendee management
-- Agenda and session planning
-- Feedback and survey collection
+Stock Count - OGH is a stock reconciliation app for users to perform a stock count on stocks at warehouses with data from SAP. A manual stock count Feature also exists for stock or materials without SAP.
+
 
 ## 6. [Genset Efficiency App](https://github.com/your-username/event-management-app)
-This app simplifies the organization and management of events, from registration to post-event analysis. Features include:
-- Event registration and ticketing
-- Attendee management
-- Agenda and session planning
-- Feedback and survey collection
+Genset Efficiency (NGL) is a comprehensive app designed to manage and check plant fuel usage and optimize the performance of factory plants.
+
 
 ## 7. [QA GMP App](https://github.com/your-username/event-management-app)
-This app simplifies the organization and management of events, from registration to post-event analysis. Features include:
-- Event registration and ticketing
-- Attendee management
-- Agenda and session planning
-- Feedback and survey collection
-  
-Each of these applications is available in a dedicated GitHub repository, where you can find the source code, documentation, and deployment instructions. Feel free to explore the links provided to learn more about the specific features and capabilities of each app.
-
-I'm passionate about leveraging the power of PowerApps to create innovative solutions that streamline business processes and enhance user experiences. If you have any questions or would like to discuss potential collaboration opportunities, please don't hesitate to reach out.
-
-Thank you for visiting my PowerApps portfolio!
-```
-
-This sample structure includes an introduction to your PowerApps portfolio, followed by sections for each of your projects. Each project section includes a brief description, highlighting the key features and functionalities of the app, as well as a link to the corresponding GitHub repository.
+The QA checklist app provides a digital platform for factory workers to efficiently conduct quality assurance checks. It streamlines the inspection process by allowing users to access customizable checklists, record observations, and instantly submit reports.
 
 Remember to customize the content and formatting to match your personal style and the specific details of your PowerApps projects. Additionally, you can include screenshots, videos, or other media to showcase the visual aspects of your applications.
 
