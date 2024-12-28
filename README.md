@@ -22,17 +22,14 @@ This comprehensive application helps our IT department efficiently manage the co
 ## 4. [Staff Sales App](https://github.com/MaxwellNanaCio/Staff-Sales-App)
 Our custom-built Employee Sales App allows our team members to conveniently purchase company products directly from their mobile devices. This solution not only provides our staff with easy access to the products they need but also helps to promote brand loyalty and a sense of community within the organization.
 
-## 5. [Stock Count App](https://github.com/your-username/event-management-app)
+## 5. [Stock Count App](https://github.com/MaxwellNanaCio/Stock-Count-App)
 Stock Count - OGH is a stock reconciliation app for users to perform a stock count on stocks at warehouses with data from SAP. A manual stock count Feature also exists for stock or materials without SAP.
 
 
-## 6. [Genset Efficiency App](https://github.com/your-username/event-management-app)
+## 6. [Genset Efficiency App](https://github.com/MaxwellNanaCio/Genset-Efficiency-App)
 Genset Efficiency (NGL) is a comprehensive app designed to manage and check plant fuel usage and optimize the performance of factory plants.
 
 
-## 7. [QA GMP App](https://github.com/your-username/event-management-app)
+## 7. [QA GMP App](https://github.com/MaxwellNanaCio/QA-GMP-Checklist)
 The QA checklist app provides a digital platform for factory workers to efficiently conduct quality assurance checks. It streamlines the inspection process by allowing users to access customizable checklists, record observations, and instantly submit reports.
 
-Remember to customize the content and formatting to match your personal style and the specific details of your PowerApps projects. Additionally, you can include screenshots, videos, or other media to showcase the visual aspects of your applications.
-
-By creating this portfolio introduction, you'll be able to showcase your PowerApps development skills and the range of applications you've built, making it easier for potential employers, clients, or collaborators to understand your capabilities and explore your work in more detail.
