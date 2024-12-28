@@ -9,21 +9,17 @@ MiBenefits Application is an app that features all benefits and entitlements of 
 - New Organizational Policies
 - HR Resources
 
-## 2. [IT Tickecting System](https://github.com/your-username/inventory-management-app)
+## 2. [IT Tickecting System](https://github.com/MaxwellNanaCio/IT-Tickecting-System)
 An IT ticketing software tool designed to help users manage and track their IT-related issues, requests, and incidents and also record internet downtimes. This app typically provides a centralized platform where users can submit tickets, report problems, or request IT support services. The App Includes
 - Real-time Dashboard monitoring
 - Ticket management system
 - Customer feedback and surveys
 - Automated outlook notifications
 
-## 3. [IT Assets Management Portal](https://github.com/your-username/customer-service-app)
-Our custom-built IT ticketing app serves as a centralized hub for employees to report technical issues, raise service requests, track the status of their submissions and record internet downtimes. Powered by the Microsoft Power Platform, this solution streamlines the incident management process and enhances the overall IT support experience.
-- Ticket management system
-- Knowledge base integration
-- Customer feedback and surveys
-- Reporting and analytics
+## 3. [IT Assets Management Portal](https://github.com/MaxwellNanaCio/IT-Assets-Management-Portal)
+This comprehensive application helps our IT department efficiently manage the company's entire IT asset inventory, from hardware to software licenses. The app provides a centralized platform to track, allocate, and monitor the usage of all IT assets across the organization.
 
-## 4. [Staff Sales App](https://github.com/your-username/sales-pipeline-app)
+## 4. [Staff Sales App](https://github.com/MaxwellNanaCio/Staff-Sales-App)
 Our custom-built Employee Sales App allows our team members to conveniently purchase company products directly from their mobile devices. This solution not only provides our staff with easy access to the products they need but also helps to promote brand loyalty and a sense of community within the organization.
 
 ## 5. [Stock Count App](https://github.com/your-username/event-management-app)
