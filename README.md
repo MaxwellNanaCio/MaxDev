@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/0e1afba9-56aa-4c7e-b544-8f6569fa09e1)#My PowerApps Portfolio
+#My PowerApps Portfolio
 
 Welcome to my PowerApps portfolio! I've built several applications using Microsoft PowerApps, a powerful low-code platform that enables rapid application development. Here's a brief introduction to some of my projects:
 
-## 1. [Employee Benefits App](https://github.com/your-username/employee-onboarding-app)
+## 1. [Employee Benefits App](https://github.com/MaxwellNanaCio/Employee-Benefits-App/commits?author=MaxwellNanaCio)
 MiBenefits Application is an app that features all benefits and entitlements of Olam employees. It uses an account-based authentication to log on and show benefits for logged-in accounts only except HR.It also Includes the following:
 - New employee registration on Portal
 - New Organizational Benefit Package
